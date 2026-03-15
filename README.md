@@ -17,7 +17,17 @@ Cette version apporte des changements majeurs réclamés par la communauté :
 
 ---
 
-## 📥 Installation Rapide
+## 📥 Téléchargement
+
+Pour obtenir la dernière version stable de l'application :
+
+1. Rendez-vous sur la page **[Releases](https://github.com/)** du projet (à droite sur GitHub).
+2. Repérez la version la plus récente (marquée **Latest**).
+3. Dans la section **Assets**, téléchargez le fichier `DayZServerManager.exe`.
+
+---
+
+## 🚀 Installation Rapide
 
 L'avantage de cet outil est qu'il est autonome ! Voici comment commencer de zéro :
 
