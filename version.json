@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
   "download_url": "https://github.com/Spadeure/DayZServerManager/releases/download/v1.1.0/DayZServerManager.exe",
-  "sha256": "FB55311F7830D7E63A676607ED7B356A98E71148880B2E924E5D4DE5620EE67F",
-  "notes": "Version 1.1.0 (Anti-Cache)\n- Correction du bug de cache CDN GitHub\n- Correction du bug [WinError 87]\n- Dashboard ultra-réactif"
+  "sha256": "4EA32CFEAAFAA4E54DD1C8A96A7FC559AC2B3C7D04D24356511DA5321F5A2F1E",
+  "notes": "Version 1.1.0 (Correctif Final)\n- Fix du téléchargement 404 (User-Agent Browser)\n- Anti-cache GitHub CDN activé\n- Dashboard RAM/Uptime stable"
 }
