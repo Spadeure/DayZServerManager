@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
   "download_url": "https://github.com/Spadeure/DayZServerManager/releases/download/v1.1.0/DayZServerManager.exe",
-  "sha256": "01B7A7793EE500307A67D09FCD8BCC840ED5334BAE871C6541FB72B5B8661589",
-  "notes": "Version 1.1.0 Stable\n- Recherche Workshop optimisée (Correction mods CF, etc.)\n- Correction du crash critique au lancement\n- Correction du blocage du bouton 'Installer Serveur'\n- Ajout d'alertes UI pour les champs manquants\n- Affichage v1.1.0 dans l'en-tête"
+  "sha256": "3EDFD5E0BE8D11BA34CAD07FCEE296A6DDC66BC27BB6CD1F070041AF65F018AC",
+  "notes": "Version 1.1.0 Stable Branded\n- Nouveau Logo Officiel 'Data Spike'\n- Recherche Workshop optimisée (Correction mods CF, etc.)\n- Correction du crash critique au lancement\n- Correction du blocage du bouton 'Installer Serveur'\n- Affichage v1.1.0 dans l'en-tête"
 }
